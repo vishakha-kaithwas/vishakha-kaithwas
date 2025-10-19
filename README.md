@@ -55,8 +55,6 @@
 <p align="center">
   <a href="https://twitter.com/VishakhaKa58462" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discordapp.com/users/snowie3004" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:vishakha@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vishakha-kaithwas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
