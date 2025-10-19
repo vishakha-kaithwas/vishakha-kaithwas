@@ -5,7 +5,7 @@
 
 
   
-### ✨ About Me  
+ ✨ About Me  
 - 💻 Building creative and meaningful projects  
 - 🧠 Focused on **Python frameworks**, **NumPy**, **Pandas**, and **Web Development**  
 - 🐳 Comfortable with **Docker** and **SQL**  
