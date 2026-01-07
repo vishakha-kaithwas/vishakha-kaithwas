@@ -37,13 +37,6 @@
 
 ---
 
-### 📊 GitHub Overview  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishakha-kaithwas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFAA" width="48%" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishakha-kaithwas&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFFF&currStreakLabel=00FFFF" width="48%" alt="GitHub streak"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishakha-kaithwas&bg_color=0D1117&color=00FFFF&line=00FFAA&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
 </p>
